@@ -1,2 +1,3 @@
 # hello-world
-This is a text of GitHub.
+This is a test of GitHub.
+Archery calms my mind.
